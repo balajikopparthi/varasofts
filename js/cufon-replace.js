@@ -1,0 +1,1 @@
+Cufon.replace('h2, h3, h4, h5, .caption .row-1, .caption .row-2, .circle, .list-2 .term', {fontFamily: 'Kozuka Gothic Pro OpenType', hover:true });

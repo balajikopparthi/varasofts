@@ -1,0 +1,16 @@
+nav,
+.menu > li,
+.slide img,
+.button,
+.box, .box1,
+.img-box, .img-box img,
+#carousel, #carousel-1,
+#search-form input,
+#contact-form input, #contact-form textarea,
+.circle {behavior: url(js/PIE.htc); position:relative;}
+
+.menu ul {behavior:url(js/PIE.htc);}
+
+body{min-width:960px;}
+.button{box-shadow: 1px 1px 3px #e3e3e3;}
+.box1 .button{box-shadow: 1px 1px 3px #c89e76;}
